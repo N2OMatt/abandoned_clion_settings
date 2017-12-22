@@ -1,10 +1,16 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
   <action id="CheckinProject" />
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+  </action>
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl period" />
   </action>
   <action id="GotoRelated">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl o" />
