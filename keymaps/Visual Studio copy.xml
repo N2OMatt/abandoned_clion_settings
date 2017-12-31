@@ -41,6 +41,7 @@
   <action id="Images.Thumbnails.UpFolder" />
   <action id="MoveLineDown" />
   <action id="MoveLineUp" />
+  <action id="NextParameter" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
